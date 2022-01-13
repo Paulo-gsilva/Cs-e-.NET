@@ -1,0 +1,15 @@
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\Cadastrar Alunos\bin\Debug\net6.0\Cadastrar Alunos.exe
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\Cadastrar Alunos\bin\Debug\net6.0\Cadastrar Alunos.deps.json
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\Cadastrar Alunos\bin\Debug\net6.0\Cadastrar Alunos.runtimeconfig.json
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\Cadastrar Alunos\bin\Debug\net6.0\Cadastrar Alunos.dll
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\Cadastrar Alunos\bin\Debug\net6.0\ref\Cadastrar Alunos.dll
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\Cadastrar Alunos\bin\Debug\net6.0\Cadastrar Alunos.pdb
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\Cadastrar Alunos\obj\Debug\net6.0\Cadastrar Alunos.csproj.AssemblyReference.cache
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\Cadastrar Alunos\obj\Debug\net6.0\Cadastrar Alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\Cadastrar Alunos\obj\Debug\net6.0\Cadastrar Alunos.AssemblyInfoInputs.cache
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\Cadastrar Alunos\obj\Debug\net6.0\Cadastrar Alunos.AssemblyInfo.cs
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\Cadastrar Alunos\obj\Debug\net6.0\Cadastrar Alunos.csproj.CoreCompileInputs.cache
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\Cadastrar Alunos\obj\Debug\net6.0\Cadastrar Alunos.dll
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\Cadastrar Alunos\obj\Debug\net6.0\ref\Cadastrar Alunos.dll
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\Cadastrar Alunos\obj\Debug\net6.0\Cadastrar Alunos.pdb
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\Cadastrar Alunos\obj\Debug\net6.0\Cadastrar Alunos.genruntimeconfig.cache
