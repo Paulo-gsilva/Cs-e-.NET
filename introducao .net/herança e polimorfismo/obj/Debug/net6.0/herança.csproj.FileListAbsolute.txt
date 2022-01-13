@@ -1,0 +1,30 @@
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\introducao .net\herança\obj\Debug\net6.0\herança.csproj.AssemblyReference.cache
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\introducao .net\herança\obj\Debug\net6.0\herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\introducao .net\herança\obj\Debug\net6.0\herança.AssemblyInfoInputs.cache
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\introducao .net\herança\obj\Debug\net6.0\herança.AssemblyInfo.cs
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\introducao .net\herança\obj\Debug\net6.0\herança.csproj.CoreCompileInputs.cache
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\introducao .net\herança\bin\Debug\net6.0\herança.exe
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\introducao .net\herança\bin\Debug\net6.0\herança.deps.json
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\introducao .net\herança\bin\Debug\net6.0\herança.runtimeconfig.json
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\introducao .net\herança\bin\Debug\net6.0\herança.dll
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\introducao .net\herança\bin\Debug\net6.0\ref\herança.dll
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\introducao .net\herança\bin\Debug\net6.0\herança.pdb
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\introducao .net\herança\obj\Debug\net6.0\herança.dll
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\introducao .net\herança\obj\Debug\net6.0\ref\herança.dll
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\introducao .net\herança\obj\Debug\net6.0\herança.pdb
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\introducao .net\herança\obj\Debug\net6.0\herança.genruntimeconfig.cache
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\introducao .net\herança e polimorfismo\bin\Debug\net6.0\herança.exe
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\introducao .net\herança e polimorfismo\bin\Debug\net6.0\herança.deps.json
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\introducao .net\herança e polimorfismo\bin\Debug\net6.0\herança.runtimeconfig.json
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\introducao .net\herança e polimorfismo\bin\Debug\net6.0\herança.dll
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\introducao .net\herança e polimorfismo\bin\Debug\net6.0\ref\herança.dll
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\introducao .net\herança e polimorfismo\bin\Debug\net6.0\herança.pdb
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\introducao .net\herança e polimorfismo\obj\Debug\net6.0\herança.csproj.AssemblyReference.cache
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\introducao .net\herança e polimorfismo\obj\Debug\net6.0\herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\introducao .net\herança e polimorfismo\obj\Debug\net6.0\herança.AssemblyInfoInputs.cache
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\introducao .net\herança e polimorfismo\obj\Debug\net6.0\herança.AssemblyInfo.cs
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\introducao .net\herança e polimorfismo\obj\Debug\net6.0\herança.csproj.CoreCompileInputs.cache
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\introducao .net\herança e polimorfismo\obj\Debug\net6.0\herança.dll
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\introducao .net\herança e polimorfismo\obj\Debug\net6.0\ref\herança.dll
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\introducao .net\herança e polimorfismo\obj\Debug\net6.0\herança.pdb
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\introducao .net\herança e polimorfismo\obj\Debug\net6.0\herança.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\introducao .net\classe abstrata\obj\Debug\net6.0\classe abstrata.csproj.AssemblyReference.cache
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\introducao .net\classe abstrata\obj\Debug\net6.0\classe abstrata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\introducao .net\classe abstrata\obj\Debug\net6.0\classe abstrata.AssemblyInfoInputs.cache
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\introducao .net\classe abstrata\obj\Debug\net6.0\classe abstrata.AssemblyInfo.cs
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\introducao .net\classe abstrata\obj\Debug\net6.0\classe abstrata.csproj.CoreCompileInputs.cache
