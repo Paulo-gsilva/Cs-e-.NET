@@ -23,6 +23,7 @@ namespace Projeto{
             retorno += "Título: " + this.Titulo + Environment.NewLine;
             retorno += "Descrição: " + this.Descricao + Environment.NewLine;
             retorno += "Ano: " + this.Ano;
+            retorno += "Excluído: " + this.Excluido;
             return retorno;
         
         }
@@ -38,6 +39,11 @@ namespace Projeto{
         public void Excluir(){
             this.Excluido = true;
         }
+
+        public bool retornaExcluido(){
+            return this.Excluido;
+        }
+
 
     }
 }

@@ -17,15 +17,15 @@
                         break;
 
                     case "3":
-                        //AtualizarSerie();
+                        AtualizarSerie();
                         break;
 
                     case "4":
-                        //ExcluirSerie();
+                        ExcluirSerie();
                         break;
 
                     case "5":
-                        //VisualizarSerie();
+                        VisualizarSerie();
                         break;
 
                     case "D":
@@ -40,6 +40,50 @@
             }
         }
 
+        private static void ExcluirSerie(){
+            System.Console.WriteLine("Digite o id da série: ");
+            int indiceSerie = int.Parse(Console.ReadLine());
+
+            repositorio.Exclui(indiceSerie);
+        }
+
+        private static void VisualizarSerie(){
+            System.Console.WriteLine("Digite o id da série: ");
+            int indiceSerie = int.Parse(Console.ReadLine());
+
+            var serie = repositorio.RetornaPorId(indiceSerie);
+            System.Console.WriteLine(serie);
+        }
+
+        private static void AtualizarSerie(){
+            System.Console.WriteLine("Digite o id da série: ");
+            int indiceSerie = int.Parse(Console.ReadLine());
+
+            foreach(int i in Enum.GetValues(typeof(Genero))){
+                System.Console.WriteLine("{0} - {1}", i, Enum.GetName(typeof(Genero), i));
+            }
+
+            System.Console.WriteLine("Digite o gênero: ");
+            int entradaGenero = int.Parse(Console.ReadLine());
+
+            System.Console.WriteLine("Digite o título: ");
+            string entradaTitulo = Console.ReadLine();
+
+            System.Console.WriteLine("Digite o Ano: ");
+            int entradaAno = int.Parse(Console.ReadLine());
+
+            System.Console.WriteLine("Digite a descrição: ");
+            string entradaDescricao = Console.ReadLine();
+
+            Series atualizaSerie = new Series(id: indiceSerie,
+                                                genero: (Genero)entradaGenero,
+                                                titulo: entradaTitulo,
+                                                ano: entradaAno,
+                                                descricao: entradaDescricao);
+            repositorio.Atualiza(indiceSerie, atualizaSerie);
+
+        }
+
         private static void ListarSerie(){
             System.Console.WriteLine("Listar Série");
 
@@ -51,7 +95,8 @@
             }
 
             foreach (var serie in lista){
-                System.Console.WriteLine("#ID {0}: - {1}", serie.retornaID(), serie.retornaTitulo());
+                var excluido = serie.retornaExcluido();
+                System.Console.WriteLine("#ID {0}: - {1} - {2}", serie.retornaID(), serie.retornaTitulo(), (excluido ? "*Excluído*" : ""));
             }
         }
 
@@ -71,7 +116,7 @@
             System.Console.WriteLine("Digite o Ano: ");
             int entradaAno = int.Parse(Console.ReadLine());
 
-            System.Console.WriteLine("Digite a descriçõ: ");
+            System.Console.WriteLine("Digite a descrição: ");
             string entradaDescricao = Console.ReadLine();
 
             Series novaSerie = new Series(id: repositorio.ProximoId(),
