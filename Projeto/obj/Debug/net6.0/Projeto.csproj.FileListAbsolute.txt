@@ -1,0 +1,15 @@
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\Projeto\obj\Debug\net6.0\Projeto.csproj.AssemblyReference.cache
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\Projeto\obj\Debug\net6.0\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\Projeto\obj\Debug\net6.0\Projeto.AssemblyInfoInputs.cache
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\Projeto\obj\Debug\net6.0\Projeto.AssemblyInfo.cs
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\Projeto\obj\Debug\net6.0\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\Projeto\bin\Debug\net6.0\Projeto.exe
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\Projeto\bin\Debug\net6.0\Projeto.deps.json
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\Projeto\bin\Debug\net6.0\Projeto.runtimeconfig.json
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\Projeto\bin\Debug\net6.0\Projeto.dll
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\Projeto\bin\Debug\net6.0\ref\Projeto.dll
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\Projeto\bin\Debug\net6.0\Projeto.pdb
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\Projeto\obj\Debug\net6.0\Projeto.dll
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\Projeto\obj\Debug\net6.0\ref\Projeto.dll
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\Projeto\obj\Debug\net6.0\Projeto.pdb
+C:\Users\Lana\Documents\Guilherme\Cursos\C# e .Net\Projeto\obj\Debug\net6.0\Projeto.genruntimeconfig.cache
