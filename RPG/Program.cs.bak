@@ -1,14 +1,16 @@
-﻿// See https://aka.ms/new-console-template for more information
-namespace dotnet_poo{
+﻿using System;
+using dotnet__poo.src.Entities;
+
+namespace dotnet__poo{
 	
 	class Program{
 		
 		static void Main(String[] args){
-			string nome = "Arus";
-			int level = 12;
-			string tipoHeroi = "Guerreiro";
 			
-			Console.Write('Héroi: ${nome}, Level: ${level}, Tipo: ${tipoHeroi}');
+			Arus hero = new Arus();
+			hero.name = "Junin";
+			
+			Console.Write("hero.name");
 		}
 	}
 }
