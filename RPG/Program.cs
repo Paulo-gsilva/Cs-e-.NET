@@ -9,9 +9,9 @@ namespace dotnet__poo
         static void Main(String[] args)
         {
 
-            Arus hero = new Arus("Junin", 21, "Magic");
+            Arus hero = new Arus("Malik", 21, "Magic");
 
-            Console.Write(hero.Name);
+            Console.Write(hero); //automaticamente usa o ToString
         }
     }
 }
